@@ -1,1 +1,0 @@
-# Quipu-DEV
